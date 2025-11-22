@@ -60,10 +60,9 @@ To build and run the Game Nexus from source:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/YourUsername/GameNexus_Repo.git
+    git clone https://github.com/A7mad-Alone/GameNexus_Repo.git
     cd GameNexus_Repo
     ```
-    (Note: Replace `YourUsername` and `GameNexus_Repo.git` with your actual GitHub details.)
 
 2.  **Open MSYS2 UCRT64 Terminal:**
     Launch the **"MSYS2 UCRT64"** terminal from your Windows Start Menu.
