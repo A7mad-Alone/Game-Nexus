@@ -1,5 +1,7 @@
 # The Game Nexus
 
+## Project Status: ABANDONED
+
 A collection of classic and new mini-games, all accessible through a single terminal-based UI. This project was developed as a C++ course project, designed to be modular and extensible.
 
 ---
@@ -60,15 +62,15 @@ To build and run the Game Nexus from source:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/A7mad-Alone/GameNexus_Repo.git
-    cd GameNexus_Repo
+    git clone https://github.com/A7mad-Alone/Game-Nexus.git
+    cd Game-Nexus
     ```
 
 2.  **Open MSYS2 UCRT64 Terminal:**
     Launch the **"MSYS2 UCRT64"** terminal from your Windows Start Menu.
 
 3.  **Navigate to Project Root:**
-    In the MSYS2 UCRT64 terminal, change your directory to the root of the cloned repository (e.g., `cd /c/Users/YourUser/path/to/GameNexus_Repo`).
+    In the MSYS2 UCRT64 terminal, change your directory to the root of the cloned repository (e.g., `cd /c/Users/YourUser/path/to/Game-Nexus`).
 
 4.  **Generate Build Files:**
     Run CMake to generate the build system (Makefiles):
@@ -96,6 +98,7 @@ To build and run the Game Nexus from source:
 *   **Overview:** First public release of the Game Nexus, featuring multiple integrated mini-games and a modular C++ architecture.
 *   **Features:** Includes Worm Game, Word Scramble, Number Memory, Coin Flip, Rock Paper Scissors, and Guess The Number.
 *   **Improvements:** Refactored codebase for modularity, unified build system using CMake, asset path handling for portability, and comprehensive code documentation.
+*   **Notes:** The initial project was created back in December 2024, a year ago. I've only recently had the time to organize and refactor it with AI assistance.
 
 ---
 
@@ -104,7 +107,8 @@ To build and run the Game Nexus from source:
 *   **College Project:** This project was initially created as part of coursework. While functional, it serves as a foundation with planned future enhancements.
 *   **Development Story:** The project was developed under a tight 72-hour deadline by a team of three. Early design ambitions (detailed in `src/Game Plan/`) were scoped down due to time constraints, prioritizing a working core over all planned features like a full user and score saving system.
 *   **AI Assistance:** This project benefited from AI assistance in aspects of code organization, refactoring, and documentation generation.
-*   **Future Enhancements:** Future plans include implementing a persistent user and scoring system, adding more games, and further UI/UX improvements.
+*   **Suggestions for Future Versions:** Future plans include implementing a persistent user and scoring system, adding more games, and further UI/UX improvements.
+*   **Project Status:** This project is abandoned and is likely to not get updated anytime soon.
 
 ---
 
