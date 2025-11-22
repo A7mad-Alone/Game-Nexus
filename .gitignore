@@ -1,0 +1,17 @@
+# Build output
+build/
+*.exe
+
+# IDE configuration
+.vscode/
+*.code-workspace
+
+# Documentation and examples
+docs/examples/
+
+# Development artifacts
+Game Plan/
+
+# Binary assets
+Sounds/
+Graphics/
