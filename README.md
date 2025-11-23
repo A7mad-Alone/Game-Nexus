@@ -114,9 +114,9 @@ To build and run the Game Nexus from source:
 
 ## Contributors
 
-*   **Ahmad Adham**
-*   **Eslam Mohammed**
-*   **Ali Abdel-Nasser**
+* **[@A7mad-Alone](https://github.com/A7mad-Alone) — Ahmad Adham**
+* **[@Ali7xyz](https://github.com/Ali7xyz) — Ali Abdelnasser**
+* **[@Eslam-Mohammed198](https://github.com/Eslam-Mohammed198) — Eslam Mohammed**
 
 ---
 
